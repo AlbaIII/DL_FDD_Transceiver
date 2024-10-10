@@ -1,7 +1,7 @@
 # DL_FDD_Transceiver
 
 This project contains scripts to reproduce experiments from the paper
-"[Deep-Learned Approximate Message Passing for Asynchronous Massive Connectivity](https://ieeexplore.ieee.org/abstract/document/9390399/)"
+"[Deep Learning for Joint Design of Pilot, Channel Feedback, and Hybrid Beamforming in FDD Massive MIMO-OFDM Systems](https://ieeexplore.ieee.org/abstract/document/10356134)"
 by 
 [Junyi Yang](mailto://yangjunyi@sjtu.edu.cn)
 ,
