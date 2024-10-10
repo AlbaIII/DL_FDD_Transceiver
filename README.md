@@ -17,6 +17,7 @@ by
 Published in IEEE Communications Letters.
 See also the related [preprint](https://arxiv.org/abs/2312.05786).
 
+If you have problems in this project, you can contact the first author or the second author, and we will reply to your questions.
 If this project helps you, it is appreciate to cite this paper in your papers.
 
 # The Problem of Interest
