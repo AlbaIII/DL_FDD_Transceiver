@@ -12,8 +12,8 @@ by
 [Xiaofeng Li](mailto://xiaofeng.li@intel.com)
 , 
 [Xingqin Lin](mailto://xingqinl@nvidia.com)
-, and Meixia Tao
-[Meixia Tao](mailto://mxtao@sjtu.edu.cn).
+, 
+and [Meixia Tao](mailto://mxtao@sjtu.edu.cn).
 Published in IEEE Communications Letters.
 See also the related [preprint](https://arxiv.org/abs/2312.05786).
 
